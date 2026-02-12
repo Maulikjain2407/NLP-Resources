@@ -1,2 +1,23 @@
-# NLP-Resources
-This repository has a curated and community driven list of resources on the topic of NLP.This repo aims to provide high quality learning, refernce material and eamples of projects on the topic of "NLP"
+# NLP Resources
+
+A curated and community-driven collection of resources related to **NLP**.
+
+## 📌 About
+This repository aims to provide high-quality learning and reference material on NLP.
+
+## 📚 Categories
+- Books – resources/books.md
+- Courses – resources/courses.md
+- Articles – resources/articles.md
+- Tools – resources/tools.md
+- Communities – resources/communities.md
+
+## 🤝 Contributing
+Contributions are welcome!  
+Please read CONTRIBUTING.md before submitting.
+
+## 👮 Moderation
+All submissions are reviewed.
+
+## 📜 License
+MIT License
