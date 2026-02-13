@@ -29,10 +29,6 @@ Adding new resources
 
 Fixing broken links
 
-Improving descriptions
-
-Organizing categories
-
 👮 Moderation
 
 All submissions are reviewed to maintain quality and relevance.
